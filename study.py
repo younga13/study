@@ -1,1 +1,1 @@
-print("study_main")
+print("study_master2")
